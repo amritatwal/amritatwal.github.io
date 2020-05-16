@@ -3,8 +3,8 @@ body {
     width: 70;
     font-family: Arial;
 }
-nav ul, footer ul {
-    padding: 0px;
+nav ul,  {
+    padding: 10px;
     list-style: none;
     font-size: 0.8em;
     border-left: 2px solid #333;
