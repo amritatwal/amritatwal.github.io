@@ -27,7 +27,7 @@ a:hover {
 }
 h1 {
     font-size: 1em;
-    border: 1px dotted;
+    text-underline: 1px dotted;
 }
 p {
     font-size: 1em;
