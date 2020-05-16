@@ -22,7 +22,7 @@ a {
 }
 a:hover {
     text-decoration: underline dashed;
-    padding-bottom: 3px;
+    padding: 3px;
 }
 h1 {
     font-size: 1em;
