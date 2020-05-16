@@ -9,7 +9,6 @@ nav  {
     font-size: 0.8em;
     letter-spacing:2px;
     background-color: #393738;
-    display: inline-block;
 }
 nav ul li, footer ul li {
     display: inline;
