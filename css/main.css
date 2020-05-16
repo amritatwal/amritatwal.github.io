@@ -22,6 +22,7 @@ a {
 }
 a:hover {
     text-decoration: underline dashed;
+    padding-bottom: 1px;
 }
 h1 {
     font-size: 1em;
@@ -38,6 +39,7 @@ footer {
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: .8em;
+    border: 0;
 }
 
 ul.posts { 
