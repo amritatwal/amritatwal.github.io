@@ -43,7 +43,7 @@ footer {
     font-size: .8em;
 }
 
-footer span:hover {
+footer:hover {
     text-decoration: underline dashed;
     padding: 3px;
     background-color: #333;
