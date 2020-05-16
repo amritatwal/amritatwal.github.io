@@ -34,6 +34,14 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
+blockquote {
+    font-size: 0.8em;
+    font-family: courer new;
+    line-height: 1.4em;
+    color: #333;
+}       
+
 footer {
     background-color: #d3d3d3;
     letter-spacing:1px;
