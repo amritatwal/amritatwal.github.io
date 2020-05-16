@@ -3,7 +3,7 @@ body {
     width: 70;
     font-family: Arial;
 }
-nav ul,  {
+nav  {
     padding: 10px;
     list-style: none;
     font-size: 0.8em;
@@ -35,11 +35,10 @@ p {
 footer {
     background-color: #d3d3d3;
     letter-spacing:1px;
-    padding-left: 20px;
+    padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: .8em;
-    border: 0;
 }
 
 ul.posts { 
