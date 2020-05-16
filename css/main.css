@@ -20,7 +20,7 @@ a {
     letter-spacing:2.5px;
     color: #999;
 }
-a:hover {
+nav:hover {
     text-decoration: underline dashed;
     text-color: #333;
     padding: 3px;
